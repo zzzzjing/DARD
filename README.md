@@ -1,3 +1,5 @@
+DARD (Dice Adversarial Robust Distillation) 
+improve small model robustness and accuracy guided by a larger robust teacher model
 1. python Standard_adv_teacher56_CIFAR-100.py
    training a robust teacher model and save model weights as .pth file
 2. python teacher56_student18.py
